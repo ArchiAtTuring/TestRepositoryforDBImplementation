@@ -12,7 +12,7 @@ from .manage_sales_orders import ManageSalesOrders
 from .discover_shipping import DiscoverShipping
 from .manage_shipping import ManageShipping
 
-ALL_TOOLS_INTERFACE_2 = [
+ALL_TOOLS_INTERFACE_1 = [
     CheckApproval,
     CreateNewAuditTrail,
     DiscoverUsers,
