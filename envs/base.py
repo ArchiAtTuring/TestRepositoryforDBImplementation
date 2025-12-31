@@ -1,5 +1,3 @@
-# Copyright Sierra
-
 import random
 from hashlib import sha256
 from envs.tool import Tool
