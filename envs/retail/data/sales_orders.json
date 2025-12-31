@@ -1,0 +1,242 @@
+{
+  "1": {
+    "sales_order_id": "1",
+    "user_id": "3",
+    "order_date": "2025-12-30",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2025-07-11T02:29:35.114826",
+    "updated_at": "2025-10-27T12:22:49.213790"
+  },
+  "2": {
+    "sales_order_id": "2",
+    "user_id": "3",
+    "order_date": "2025-12-30",
+    "status": "shipped",
+    "payment_method": "PayPal",
+    "cancel_reason": "",
+    "created_at": "2024-10-25T08:29:31.872532",
+    "updated_at": "2025-08-19T04:59:24.312403"
+  },
+  "3": {
+    "sales_order_id": "3",
+    "user_id": "3",
+    "order_date": "2025-12-30",
+    "status": "delivered",
+    "payment_method": "Debit",
+    "cancel_reason": "",
+    "created_at": "2025-09-19T20:45:47.793068",
+    "updated_at": "2025-09-27T03:57:33.700398"
+  },
+  "4": {
+    "sales_order_id": "4",
+    "user_id": "4",
+    "order_date": "2025-12-30",
+    "status": "processing",
+    "payment_method": "PayPal",
+    "cancel_reason": "",
+    "created_at": "2024-05-24T10:37:59.539328",
+    "updated_at": "2024-07-30T16:47:02.650479"
+  },
+  "5": {
+    "sales_order_id": "5",
+    "user_id": "4",
+    "order_date": "2025-12-30",
+    "status": "processing",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2024-04-18T18:34:23.453701",
+    "updated_at": "2024-09-30T21:40:47.600509"
+  },
+  "6": {
+    "sales_order_id": "6",
+    "user_id": "4",
+    "order_date": "2025-12-30",
+    "status": "placed",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2024-02-13T12:06:34.158710",
+    "updated_at": "2025-08-10T23:21:52.603153"
+  },
+  "7": {
+    "sales_order_id": "7",
+    "user_id": "5",
+    "order_date": "2025-12-30",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2025-08-25T00:44:11.724214",
+    "updated_at": "2025-12-21T07:15:06.150921"
+  },
+  "8": {
+    "sales_order_id": "8",
+    "user_id": "5",
+    "order_date": "2025-12-30",
+    "status": "delivered",
+    "payment_method": "PayPal",
+    "cancel_reason": "",
+    "created_at": "2025-01-29T09:15:12.832652",
+    "updated_at": "2025-06-25T11:42:17.563066"
+  },
+  "9": {
+    "sales_order_id": "9",
+    "user_id": "5",
+    "order_date": "2025-12-30",
+    "status": "processing",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2024-06-16T03:57:14.966311",
+    "updated_at": "2025-06-30T23:12:27.447590"
+  },
+  "10": {
+    "sales_order_id": "10",
+    "user_id": "7",
+    "order_date": "2025-12-30",
+    "status": "placed",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2025-03-04T19:42:45.483647",
+    "updated_at": "2025-03-11T01:52:33.023174"
+  },
+  "11": {
+    "sales_order_id": "11",
+    "user_id": "7",
+    "order_date": "2025-12-30",
+    "status": "placed",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2025-08-22T23:18:51.477545",
+    "updated_at": "2025-11-06T03:24:41.107886"
+  },
+  "12": {
+    "sales_order_id": "12",
+    "user_id": "8",
+    "order_date": "2025-12-30",
+    "status": "placed",
+    "payment_method": "Debit",
+    "cancel_reason": "",
+    "created_at": "2024-05-07T21:55:18.590929",
+    "updated_at": "2025-03-16T14:13:24.857189"
+  },
+  "13": {
+    "sales_order_id": "13",
+    "user_id": "8",
+    "order_date": "2025-12-30",
+    "status": "placed",
+    "payment_method": "Debit",
+    "cancel_reason": "",
+    "created_at": "2024-07-22T03:04:04.357066",
+    "updated_at": "2025-12-29T19:25:47.757597"
+  },
+  "14": {
+    "sales_order_id": "14",
+    "user_id": "8",
+    "order_date": "2025-12-30",
+    "status": "cancelled",
+    "payment_method": "PayPal",
+    "cancel_reason": "Wait too long",
+    "created_at": "2025-08-17T17:30:10.653708",
+    "updated_at": "2025-12-27T05:18:38.994843"
+  },
+  "15": {
+    "sales_order_id": "15",
+    "user_id": "9",
+    "order_date": "2025-12-30",
+    "status": "processing",
+    "payment_method": "Debit",
+    "cancel_reason": "",
+    "created_at": "2024-10-25T05:31:15.460063",
+    "updated_at": "2025-03-12T23:43:05.500131"
+  },
+  "16": {
+    "sales_order_id": "16",
+    "user_id": "9",
+    "order_date": "2025-12-30",
+    "status": "cancelled",
+    "payment_method": "Credit Card",
+    "cancel_reason": "Wait too long",
+    "created_at": "2024-04-27T10:03:59.185696",
+    "updated_at": "2025-01-04T18:11:47.799670"
+  },
+  "17": {
+    "sales_order_id": "17",
+    "user_id": "9",
+    "order_date": "2025-12-30",
+    "status": "cancelled",
+    "payment_method": "Credit Card",
+    "cancel_reason": "Found cheaper",
+    "created_at": "2025-04-28T22:39:01.754557",
+    "updated_at": "2025-08-05T15:29:58.021781"
+  },
+  "18": {
+    "sales_order_id": "18",
+    "user_id": "10",
+    "order_date": "2025-12-30",
+    "status": "delivered",
+    "payment_method": "Debit",
+    "cancel_reason": "",
+    "created_at": "2024-01-27T17:55:15.104707",
+    "updated_at": "2024-03-29T17:05:20.652769"
+  },
+  "19": {
+    "sales_order_id": "19",
+    "user_id": "12",
+    "order_date": "2025-12-30",
+    "status": "shipped",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2024-01-01T18:44:41.794092",
+    "updated_at": "2025-09-27T02:32:04.439749"
+  },
+  "20": {
+    "sales_order_id": "20",
+    "user_id": "13",
+    "order_date": "2025-12-30",
+    "status": "shipped",
+    "payment_method": "Debit",
+    "cancel_reason": "",
+    "created_at": "2024-12-30T01:53:54.549805",
+    "updated_at": "2025-06-10T00:24:17.749279"
+  },
+  "21": {
+    "sales_order_id": "21",
+    "user_id": "13",
+    "order_date": "2025-12-30",
+    "status": "returned",
+    "payment_method": "Debit",
+    "cancel_reason": "",
+    "created_at": "2025-10-05T09:07:49.470109",
+    "updated_at": "2025-11-16T13:40:16.589760"
+  },
+  "22": {
+    "sales_order_id": "22",
+    "user_id": "15",
+    "order_date": "2025-12-30",
+    "status": "shipped",
+    "payment_method": "Credit Card",
+    "cancel_reason": "",
+    "created_at": "2024-08-14T22:28:55.513476",
+    "updated_at": "2024-08-21T19:43:07.482179"
+  },
+  "23": {
+    "sales_order_id": "23",
+    "user_id": "15",
+    "order_date": "2025-12-30",
+    "status": "returned",
+    "payment_method": "PayPal",
+    "cancel_reason": "",
+    "created_at": "2025-11-22T17:57:48.821552",
+    "updated_at": "2025-12-17T19:07:00.225132"
+  },
+  "24": {
+    "sales_order_id": "24",
+    "user_id": "15",
+    "order_date": "2025-12-30",
+    "status": "returned",
+    "payment_method": "PayPal",
+    "cancel_reason": "",
+    "created_at": "2024-10-30T10:44:07.195700",
+    "updated_at": "2025-05-24T11:04:37.861281"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "1": {
+    "product_id": "1",
+    "name": "Clothing Catch",
+    "description": "",
+    "supplier_id": "1",
+    "unit_price": 130.0,
+    "created_at": "2024-08-17T10:40:49.576369",
+    "updated_at": "2024-12-28T12:16:15.823337"
+  },
+  "2": {
+    "product_id": "2",
+    "name": "Electronics Four",
+    "description": "",
+    "supplier_id": "1",
+    "unit_price": 341.58,
+    "created_at": "2025-05-05T14:18:15.778044",
+    "updated_at": "2025-07-16T13:01:17.791062"
+  },
+  "3": {
+    "product_id": "3",
+    "name": "Electronics Back",
+    "description": "Leader your you.",
+    "supplier_id": "1",
+    "unit_price": 299.34,
+    "created_at": "2025-11-09T13:39:10.724483",
+    "updated_at": "2025-12-28T02:06:38.435444"
+  },
+  "4": {
+    "product_id": "4",
+    "name": "Home Cause",
+    "description": "",
+    "supplier_id": "2",
+    "unit_price": 124.0,
+    "created_at": "2025-01-27T16:06:15.651440",
+    "updated_at": "2025-07-17T12:47:44.881809"
+  },
+  "5": {
+    "product_id": "5",
+    "name": "Home Until",
+    "description": "",
+    "supplier_id": "3",
+    "unit_price": 360.85,
+    "created_at": "2025-11-12T16:00:17.626181",
+    "updated_at": "2025-12-25T14:41:11.469313"
+  },
+  "6": {
+    "product_id": "6",
+    "name": "Sports Technology",
+    "description": "Street region particularly would pressure account.",
+    "supplier_id": "3",
+    "unit_price": 118.02,
+    "created_at": "2024-06-27T09:14:17.024257",
+    "updated_at": "2024-12-01T16:59:32.578374"
+  },
+  "7": {
+    "product_id": "7",
+    "name": "Electronics On",
+    "description": "Voice care break blood.",
+    "supplier_id": "3",
+    "unit_price": 381.82,
+    "created_at": "2025-02-09T01:34:36.350911",
+    "updated_at": "2025-12-09T05:12:05.274853"
+  },
+  "8": {
+    "product_id": "8",
+    "name": "Clothing Western",
+    "description": "Response data plant enough major.",
+    "supplier_id": "4",
+    "unit_price": 146.16,
+    "created_at": "2024-04-23T11:48:01.974168",
+    "updated_at": "2024-10-14T07:33:49.878918"
+  },
+  "9": {
+    "product_id": "9",
+    "name": "Clothing Letter",
+    "description": "Stop analysis four capital woman claim.",
+    "supplier_id": "5",
+    "unit_price": 60.08,
+    "created_at": "2025-10-25T07:57:30.045520",
+    "updated_at": "2025-10-28T17:45:03.551964"
+  },
+  "10": {
+    "product_id": "10",
+    "name": "Clothing Act",
+    "description": "",
+    "supplier_id": "6",
+    "unit_price": 305.83,
+    "created_at": "2025-02-06T22:21:07.710883",
+    "updated_at": "2025-06-26T23:51:25.052348"
+  },
+  "11": {
+    "product_id": "11",
+    "name": "Sports Care",
+    "description": "Nation strong old challenge.",
+    "supplier_id": "6",
+    "unit_price": 272.75,
+    "created_at": "2024-03-22T15:52:56.317673",
+    "updated_at": "2025-11-25T18:31:01.122628"
+  },
+  "12": {
+    "product_id": "12",
+    "name": "Clothing Worker",
+    "description": "",
+    "supplier_id": "7",
+    "unit_price": 416.41,
+    "created_at": "2024-01-31T11:53:15.959101",
+    "updated_at": "2024-10-12T17:22:32.423310"
+  },
+  "13": {
+    "product_id": "13",
+    "name": "Clothing Pressure",
+    "description": "Decide economic bill sister this image.",
+    "supplier_id": "7",
+    "unit_price": 292.9,
+    "created_at": "2025-08-04T11:47:09.030789",
+    "updated_at": "2025-12-10T16:11:39.677737"
+  },
+  "14": {
+    "product_id": "14",
+    "name": "Home Economic",
+    "description": "",
+    "supplier_id": "8",
+    "unit_price": 388.8,
+    "created_at": "2025-07-01T10:02:03.256878",
+    "updated_at": "2025-12-17T20:02:09.366191"
+  },
+  "15": {
+    "product_id": "15",
+    "name": "Home Word",
+    "description": "Thing agent say forward.",
+    "supplier_id": "8",
+    "unit_price": 434.58,
+    "created_at": "2025-09-23T12:24:09.523077",
+    "updated_at": "2025-12-29T01:36:20.436346"
+  },
+  "16": {
+    "product_id": "16",
+    "name": "Sports Doctor",
+    "description": "Environment skin blue the teach.",
+    "supplier_id": "8",
+    "unit_price": 321.49,
+    "created_at": "2024-10-27T16:30:56.706393",
+    "updated_at": "2025-08-11T13:38:57.317272"
+  },
+  "17": {
+    "product_id": "17",
+    "name": "Clothing Hard",
+    "description": "",
+    "supplier_id": "9",
+    "unit_price": 112.66,
+    "created_at": "2024-05-25T17:22:36.245421",
+    "updated_at": "2025-11-13T17:44:39.533336"
+  },
+  "18": {
+    "product_id": "18",
+    "name": "Electronics Spring",
+    "description": "Development process huge everything attorney.",
+    "supplier_id": "9",
+    "unit_price": 308.47,
+    "created_at": "2024-08-10T21:01:10.948978",
+    "updated_at": "2025-09-18T13:10:30.392190"
+  },
+  "19": {
+    "product_id": "19",
+    "name": "Home Partner",
+    "description": "Quickly such former agree theory end.",
+    "supplier_id": "10",
+    "unit_price": 90.07,
+    "created_at": "2024-07-22T20:02:44.665153",
+    "updated_at": "2025-06-25T15:07:01.455490"
+  }
+}

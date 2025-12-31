@@ -1,0 +1,122 @@
+{
+  "1": {
+    "supplier_id": "1",
+    "name": "Sanchez-Taylor",
+    "contact_email": "rhodespatricia@garza.com",
+    "address": "38908 Jennifer Squares",
+    "city": "Robinsonshire",
+    "state": "KY",
+    "zip_code": "01352",
+    "country": "USA",
+    "created_at": "2025-04-12T00:40:40.974913",
+    "updated_at": "2025-04-18T14:46:51.407312"
+  },
+  "2": {
+    "supplier_id": "2",
+    "name": "Peterson-Moore",
+    "contact_email": "curtis61@abbott-munoz.com",
+    "address": "161 Calderon River Suite 931",
+    "city": "Lake Jeremyport",
+    "state": "CO",
+    "zip_code": "31013",
+    "country": "USA",
+    "created_at": "2025-07-08T05:35:55.990296",
+    "updated_at": "2025-08-05T08:42:57.086172"
+  },
+  "3": {
+    "supplier_id": "3",
+    "name": "Reid-Diaz",
+    "contact_email": "michael41@reid.info",
+    "address": "8350 Lydia Valley Suite 641",
+    "city": "New Nancy",
+    "state": "MD",
+    "zip_code": "28370",
+    "country": "USA",
+    "created_at": "2025-09-24T21:19:34.651196",
+    "updated_at": "2025-10-31T23:06:35.824577"
+  },
+  "4": {
+    "supplier_id": "4",
+    "name": "Ellis, Baker and Wright",
+    "contact_email": "julie69@cox-osborn.com",
+    "address": "01226 Paul Ranch Suite 848",
+    "city": "Lake Jenniferside",
+    "state": "WV",
+    "zip_code": "35474",
+    "country": "USA",
+    "created_at": "2025-04-23T17:23:24.523486",
+    "updated_at": "2025-08-01T07:16:53.927680"
+  },
+  "5": {
+    "supplier_id": "5",
+    "name": "Graham-Chavez",
+    "contact_email": "teresa28@harrell.net",
+    "address": "52880 Burns Creek",
+    "city": "Natashaport",
+    "state": "IA",
+    "zip_code": "08093",
+    "country": "USA",
+    "created_at": "2025-07-15T09:15:22.476887",
+    "updated_at": "2025-09-10T21:17:23.270622"
+  },
+  "6": {
+    "supplier_id": "6",
+    "name": "Miller Group",
+    "contact_email": "spenceamanda@anderson.net",
+    "address": "8963 Jennifer Locks",
+    "city": "Samuelhaven",
+    "state": "NV",
+    "zip_code": "16361",
+    "country": "USA",
+    "created_at": "2024-06-24T21:24:22.053218",
+    "updated_at": "2025-05-05T12:10:38.964174"
+  },
+  "7": {
+    "supplier_id": "7",
+    "name": "Chapman and Sons",
+    "contact_email": "adrianzimmerman@perez.com",
+    "address": "347 Amber Stream",
+    "city": "Sanchezfort",
+    "state": "AS",
+    "zip_code": "53855",
+    "country": "USA",
+    "created_at": "2024-06-30T00:43:23.132416",
+    "updated_at": "2024-08-04T04:55:39.620769"
+  },
+  "8": {
+    "supplier_id": "8",
+    "name": "Gomez-Jenkins",
+    "contact_email": "nuneztracey@brown.com",
+    "address": "33872 White Mountain",
+    "city": "Port Sandra",
+    "state": "NV",
+    "zip_code": "72633",
+    "country": "USA",
+    "created_at": "2024-05-19T00:44:13.374006",
+    "updated_at": "2024-07-15T08:30:35.021169"
+  },
+  "9": {
+    "supplier_id": "9",
+    "name": "Huff, Novak and House",
+    "contact_email": "gabrieltucker@hancock.com",
+    "address": "64746 Moore Hill Apt. 098",
+    "city": "Lake Leeton",
+    "state": "OR",
+    "zip_code": "62994",
+    "country": "USA",
+    "created_at": "2024-03-12T11:03:07.901384",
+    "updated_at": "2025-05-16T04:44:42.000154"
+  },
+  "10": {
+    "supplier_id": "10",
+    "name": "Brown PLC",
+    "contact_email": "yorkcasey@leonard.biz",
+    "address": "399 Christine Manor",
+    "city": "Sarahborough",
+    "state": "TN",
+    "zip_code": "94373",
+    "country": "USA",
+    "created_at": "2025-01-02T06:17:17.391557",
+    "updated_at": "2025-11-07T22:25:17.346493"
+  }
+}
