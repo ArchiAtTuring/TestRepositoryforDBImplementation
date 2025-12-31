@@ -1,7 +1,7 @@
 # Retail Operations Management Policy
 
 **Domain:** Retail E-commerce (`envs/retail`)  
-**Current Date:** 2025-11-01  
+**Current Date:** 2025-12-31 
 
 ### General Operating Principles
 
